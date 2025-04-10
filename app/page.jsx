@@ -1,9 +1,9 @@
-import DailyChecklist from './components/DailyChecklist';
-import DemonDetector from './components/DemonDetector';
-import BeastScore from './components/BeastScore';
-import EmergencyButton from './components/EmergencyButton';
-import ReflectionLog from './components/ReflectionLog';
-import Settings from './components/Settings';
+import DailyChecklist from './components/DailyChecklist.jsx';
+import DemonDetector from './components/DemonDetector.jsx';
+import BeastScore from './components/BeastScore.jsx';
+import EmergencyButton from './components/EmergencyButton.jsx';
+import ReflectionLog from './components/ReflectionLog.jsx';
+import Settings from './components/Settings.jsx';
 
 export default function Home() {
   return (

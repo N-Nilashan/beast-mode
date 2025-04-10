@@ -4,6 +4,7 @@ import BeastScore from './components/BeastScore';
 import EmergencyButton from './components/EmergencyButton';
 import ReflectionLog from './components/ReflectionLog';
 import Settings from './components/Settings';
+import MomentumCalendar from './components/MomentumCalendar';
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
         <div>
           <BeastScore />
           <DemonDetector />
+          <MomentumCalendar />
         </div>
       </div>
 
